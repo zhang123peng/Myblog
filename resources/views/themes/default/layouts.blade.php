@@ -74,7 +74,7 @@
                 <a href="javascript:window.scrollTo(0,0)" >TOP</a>
             </li>
         </ul>
-        <a href="#" target="_blank" aria-label="view source code" title="GitHub">
+        <a href="https://github.com/zhang123peng" target="_blank" aria-label="view source code" title="GitHub:Bill Zhang">
             <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
         </a>
 
